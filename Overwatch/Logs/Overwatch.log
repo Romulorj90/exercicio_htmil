@@ -1,0 +1,105 @@
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:31.071Z]: ==[VC] Client begin initialize
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:31.071Z]: ==[VC] Client initialized
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:31.071Z]: ==[VC] DetermineVoiceChatAudioDevices
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.227Z]: ==[VC] Devices started
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.227Z]: ==[VC] Client started
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.227Z]: ==[VC] SetTargetOutputDevice Auscultadores (Realtek(R) Audio)
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.227Z]: ==[VC] SetTargetInputDevice Grupo de microfones (Tecnologia Intel® Smart Sound para microfones digitais)
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.278Z]: #=[VC] ResponseGetOutputDevices 01 0(0:811c9dc5) (Default System Device|Default System Device) ({0.0.0.00000000}.{68e660f1-f880-4e9f-8acf-b352d94e5f02}|Auscultadores (Realtek(R) Audio)) ({0.0.0.00000000}.{68e660f1-f880-4e9f-8acf-b352d94e5f02}|Auscultadores (Realtek(R) Audio)) ({0.0.0.00000000}.{68e660f1-f880-4e9f-8acf-b352d94e5f02}|Auscultadores (Realtek(R) Audio))
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.278Z]: ==[VC] Output devices added [(Default Communication Device|Default Communication Device),(Default System Device|Default System Device),(No Device|No Device),({0.0.0.00000000}.{1c9d6dc1-46e4-4ef0-b443-1ba95df6a668}|Altofalantes (Realtek(R) Audio)),({0.0.0.00000000}.{68e660f1-f880-4e9f-8acf-b352d94e5f02}|Auscultadores (Realtek(R) Audio)),({0.0.0.00000000}.{6ee3861b-bb10-4a08-a5f1-9bee2f6d4aa7}|LG ULTRAWIDE (NVIDIA High Definition Audio))]
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.278Z]: ==[VC] New active output device (Default System Device|Default System Device)
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.295Z]: ==[VC] SetTargetOutputDevice Auscultadores (Realtek(R) Audio)
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.295Z]: ==[VC] SetTargetInputDevice Grupo de microfones (Tecnologia Intel® Smart Sound para microfones digitais)
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.295Z]: #=[VC] ResponseGetInputDevices 01 0(0:811c9dc5) (Default System Device|Default System Device) ({0.0.1.00000000}.{87001ace-77e3-4aec-a13a-8193bd32c4c3}|Grupo de microfones (Tecnologia Intel® Smart Sound para microfones digitais)) ({0.0.1.00000000}.{87001ace-77e3-4aec-a13a-8193bd32c4c3}|Grupo de microfones (Tecnologia Intel® Smart Sound para microfones digitais)) ({0.0.1.00000000}.{87001ace-77e3-4aec-a13a-8193bd32c4c3}|Grupo de microfones (Tecnologia Intel® Smart Sound para microfones digitais))
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.295Z]: ==[VC] Input devices added [(Default Communication Device|Default Communication Device),(Default System Device|Default System Device),(No Device|No Device),({0.0.1.00000000}.{51294cd3-3c9c-4c69-9936-6701551938c5}|Mixagem estéreo (Realtek(R) Audio)),({0.0.1.00000000}.{87001ace-77e3-4aec-a13a-8193bd32c4c3}|Grupo de microfones (Tecnologia Intel® Smart Sound para microfones digitais))]
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.295Z]: ==[VC] New active input device (Default System Device|Default System Device)
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.312Z]: ==[VC] SetTargetOutputDevice Auscultadores (Realtek(R) Audio)
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.312Z]: ==[VC] SetTargetInputDevice Grupo de microfones (Tecnologia Intel® Smart Sound para microfones digitais)
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.371Z]: #=[VC] ResponseGetOutputDevices 01 0(0:811c9dc5) (Default System Device|Default System Device) ({0.0.0.00000000}.{68e660f1-f880-4e9f-8acf-b352d94e5f02}|Auscultadores (Realtek(R) Audio)) ({0.0.0.00000000}.{68e660f1-f880-4e9f-8acf-b352d94e5f02}|Auscultadores (Realtek(R) Audio)) ({0.0.0.00000000}.{68e660f1-f880-4e9f-8acf-b352d94e5f02}|Auscultadores (Realtek(R) Audio))
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.403Z]: #=[VC] ResponseGetInputDevices 01 0(0:811c9dc5) (Default System Device|Default System Device) ({0.0.1.00000000}.{87001ace-77e3-4aec-a13a-8193bd32c4c3}|Grupo de microfones (Tecnologia Intel® Smart Sound para microfones digitais)) ({0.0.1.00000000}.{87001ace-77e3-4aec-a13a-8193bd32c4c3}|Grupo de microfones (Tecnologia Intel® Smart Sound para microfones digitais)) ({0.0.1.00000000}.{87001ace-77e3-4aec-a13a-8193bd32c4c3}|Grupo de microfones (Tecnologia Intel® Smart Sound para microfones digitais))
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.454Z]: ==[VC] RequestSetActiveOutputDevice ({0.0.0.00000000}.{68e660f1-f880-4e9f-8acf-b352d94e5f02}|Auscultadores (Realtek(R) Audio))
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.454Z]: ==[VC] RequestSetActiveInputDevice ({0.0.1.00000000}.{87001ace-77e3-4aec-a13a-8193bd32c4c3}|Grupo de microfones (Tecnologia Intel® Smart Sound para microfones digitais))
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.471Z]: #=[VC] ResponseSetActiveOutputDevice 02 0(0:811c9dc5) 
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.471Z]: ==[VC] New active output device ({0.0.0.00000000}.{68e660f1-f880-4e9f-8acf-b352d94e5f02}|Auscultadores (Realtek(R) Audio))
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.471Z]: #=[VC] ResponseSetActiveInputDevice 02 0(0:811c9dc5) 
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:32.471Z]: ==[VC] New active input device ({0.0.1.00000000}.{87001ace-77e3-4aec-a13a-8193bd32c4c3}|Grupo de microfones (Tecnologia Intel® Smart Sound para microfones digitais))
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:48.148Z]: #=[VC] Auto-Join Enabled Flags 0000 -> 0004
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:14:48.148Z]: #=[VC] Channel Enabled Flags 0000 -> 0005
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:17:38.346Z]: ==[VC] DetermineVoiceChatAudioDevices
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:44.357Z]: #=[VC] ChatSystem switching to new PARTY channel: _?__wXQ==__?_
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:44.357Z]: ==[VC] LeaveAllVoiceChannels()
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:44.357Z]: ==[VC] JoinVoiceChannel() _?__wXQ==__?_ - PARTY - active = 1
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:44.357Z]: ==[VC] Request channel transmit 1616729093 (true)
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:44.357Z]: ==[VC] Request join channel PARTY 1616729093 e05d5405
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:44.357Z]: #=[VC] __SetTargetActiveChannelType(UNKNOWN -> PARTY) : -2
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:44.374Z]: ==[VC] Request login 06b4f43b
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:44.374Z]: ==[VC] Login credentials requested
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:44.907Z]: #=[VC] LoginCredentials 5 0 06b4f43b e2fe5dcc 7d33d227
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:44.907Z]: ==[VC] Connect requested 080206e9 7d33d227
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:45.574Z]: #=[VC] ResponseConnect 05 0(0:811c9dc5) 080206e9
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:45.591Z]: ==[VC] Login requested 080206e9 9bd5d047 e2fe5dcc 06b4f43b
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:45.608Z]: #=[VC] LoggingIn 00 0(0:811c9dc5) 9bd5d047
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:47.258Z]: #=[VC] ResponseLogin 05 0(0:811c9dc5) 332810e3@4a95b6d2
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:47.258Z]: #=[VC] LoggedIn 00 0(0:811c9dc5) 9bd5d047
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:47.274Z]: ==[VC] Login complete 06b4f43b e2fe5dcc 9bd5d047 
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:47.290Z]: ==[VC] SetPushToTalk (true)
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:47.290Z]: ==[VC] SetPTTVADProperties
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:47.290Z]: ==[VC] Channel credentials requested PARTY 1616729093
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:47.323Z]: #=[VC] ResponseGetVADProperties 07 0(0:811c9dc5) hangover 2000 sensitivity 43 noisefloor 576 auto false
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:47.340Z]: #=[VC] ResponseSetVADProperties 07 0(0:811c9dc5) 
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:47.340Z]: ==[VC] SetVADProperties success hangover 2000 sensitivity 0 noisefloor 576 auto false
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:47.340Z]: #=[VC] SetOutputVolume 06 0(0:811c9dc5) 
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:47.340Z]: #=[VC] SetInputVolume 06 0(0:811c9dc5) 
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:47.340Z]: #=[VC] MuteInput 06 0(0:811c9dc5) 
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.090Z]: #=[VC] ChannelCredentials 4 0 e05d5405 bddbc025@4a95b6d2
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.090Z]: ==[VC] Join channel requested 9bd5d047 1616729093 bddbc025@4a95b6d2
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.107Z]: #=[VC] ResponseJoinChannel 04 0(0:811c9dc5) 1616729093
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.124Z]: #=[VC] ChannelAdded 1616729093 e05d5405
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.257Z]: #=[VC] ChannelConnection 00 0(0:811c9dc5) 1616729093 e05d5405 Connecting
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.541Z]: #=[VC] MemberAdded 1616729093 e05d5405 97994ecf@4a95b6d2 70931cc0 false
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.724Z]: #=[VC] ResponseMuteMember 08 0(0:811c9dc5) 
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.791Z]: #=[VC] MemberIDUpdate 1616729093 70931cc0 5e89e6b4
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.791Z]: ==[VC] Member identity updated 70931cc0 5e89e6b4 86a8b3f4
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.825Z]: #=[VC] ChannelConnection 00 0(0:811c9dc5) 1616729093 e05d5405 Connected
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.825Z]: #=[VC] MemberAdded 1616729093 e05d5405 332810e3@4a95b6d2 e2fe5dcc true
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.841Z]: ==[VC] Join channel complete 1616729093
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.858Z]: ==[VC] Channel transmit requested 1616729093 (true)
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.874Z]: #=[VC] ResponseStartTransmit 03 0(0:811c9dc5) 1616729093
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.874Z]: ==[VC] OnJoinChannel NONE -> PARTY
+
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.891Z]: ==[VC] Notified Lobby of Active channel NONE -> PARTY
+
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:48.891Z]: ==[VC] Channel transmit set 1616729093 (true)
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:49.074Z]: #=[VC] ResponseMuteMember 09 0(0:811c9dc5) 
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:49.091Z]: #=[VC] MemberIDUpdate 1616729093 e2fe5dcc 06b4f43b
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T01:21:49.091Z]: ==[VC] Member identity updated e2fe5dcc 06b4f43b 86a8b3f4
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:46.645Z]: #=[VC] ChatSystem leaving PARTY channel: _?__wXQ==__?_
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:46.645Z]: ==[VC] LeaveVoiceChannel() _?__wXQ==__?_
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:46.645Z]: ==[VC] Request leave channel 1616729093
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:46.645Z]: #=[VC] __SetTargetActiveChannelType(PARTY -> UNKNOWN) : 1
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:46.645Z]: #=[VC] Auto-Join Enabled Flags 0004 -> 0000
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:46.645Z]: #=[VC] Channel Enabled Flags 0005 -> 0000
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:46.645Z]: ==[VC] Request logout
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:46.645Z]: ==[VC] Leave channel requested 1616729093 e05d5405
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.003Z]: ==[VC] AboutToShutdown
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.003Z]: ==[VC] Request stop
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.003Z]: ==[VC] Cancel all queued trackers 3
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.003Z]: ==[VC] Request tracker canceled 1
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.003Z]: ==[VC] Request logout
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.008Z]: #=[VC] ChannelConnection 00 0(0:811c9dc5) 1616729093 e05d5405 Disconnecting
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.008Z]: #=[VC] ResponseLeaveChannel 0a 0(0:811c9dc5) e05d5405 1616729093
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.008Z]: #=[VC] ChannelConnection 00 0(0:811c9dc5) 1616729093 e05d5405 Disconnected
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.008Z]: #=[VC] MemberRemoved 1616729093 e05d5405 332810e3@4a95b6d2 e2fe5dcc 0
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.008Z]: #=[VC] ChannelRemoved 1616729093 e05d5405 
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.204Z]: ==[VC] Leave channel complete 1616729093
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.204Z]: ==[VC] Logout requested 9bd5d047
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.204Z]: #=[VC] ResponseMuteMember 0b 1(1001:bd0706aa) 
+[2140] [ERR] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.204Z]: ==[VC] MuteMember failed e05d5405 97994ecf@4a95b6d2 1(1001:bd0706aa)
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.348Z]: #=[VC] ResponseLogout 0d 0(0:811c9dc5) 
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.348Z]: #=[VC] LoggingOut 00 0(0:811c9dc5) 9bd5d047
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.348Z]: #=[VC] LoggedOut 00 0(0:811c9dc5) 9bd5d047
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.364Z]: ==[VC] Disconnect requested 080206e9
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.371Z]: #=[VC] ResponseDisconnect 0d 0(0:811c9dc5) 
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.378Z]: ==[VC] Disconnect complete
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:07:47.378Z]: ==[VC] Stop complete
+[2140] [NRM] [VoiceChat] [External(0)] [External()] [2024-12-03T03:08:01.307Z]: ==[VC] Shutdown
